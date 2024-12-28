@@ -1,0 +1,13 @@
+risk.client.network
+risk.client.ui.gui
+risk.client.ui.gui.actions
+risk.client.ui.gui.panels
+risk.client.ui.gui.subPanels
+risk.common.entities
+risk.common.entities.missions
+risk.common.exceptions
+risk.common.interfaces
+risk.common.persistence
+risk.server.domain
+risk.server.network
+risk.server.persistence

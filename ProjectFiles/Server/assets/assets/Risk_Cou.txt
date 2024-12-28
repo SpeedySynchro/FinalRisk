@@ -1,0 +1,42 @@
+Alaska, AL, Kamchatka, Northwest Territory, Alberta
+Northwest Territory, NT, Alaska,Alberta, Ontario, Greenland
+Greenland, GR, Northwest Territory, Ontario ,Quebec, Iceland
+Alberta, AB, Alaska, Northwest Territory, Ontario, Western United States
+Ontario, ON, Northwest Territory, Alberta, Quebec, Eastern United States, Western United States
+Quebec, QC, Greenland, Ontario, Eastern United States
+Western United States, WUS, Alberta, Ontario, Eastern United States, Central America
+Eastern United States, EUS, Ontario, Quebec, Western United States, Central America
+Central America, CAM, Western United States, Eastern United States, Venezuela
+Venezuela, VE, Central America, Brazil, Peru
+Peru, PE, Venezuela, Brazil, Argentina
+Brazil, BR, Venezuela, Peru, Argentina, North Africa
+Argentina, AR, Peru, Brazil
+Iceland, IC, Greenland, Great Britain, Scandinavia
+Great Britain, GB, Iceland, Scandinavia, Northern Europe, Western Europe
+Scandinavia, SC, Iceland, Great Britain, Northern Europe, Ukraine
+Northern Europe, NE, Great Britain, Scandinavia, Western Europe, Ukraine
+Western Europe, WE, Great Britain, Northern Europe, Southern Europe, North Africa
+Southern Europe, SE, Western Europe, Northern Europe, Ukraine, North Africa, Egypt, Middle East
+Ukraine, UK, Scandinavia, Northern Europe, Southern Europe, Middle East, Ural, Afghanistan
+North Africa, NA, Western Europe, Southern Europe, Brazil, Egypt, East Africa, Congo
+Egypt, EG, North Africa, East Africa, Middle East, Southern Europe
+Middle East, ME, Southern Europe, Ukraine, Afghanistan, India, East Africa, Egypt
+East Africa, EA, Egypt, North Africa, Congo, South Africa, Madagascar, Middle East
+Congo, CO, North Africa, East Africa, South Africa
+South Africa, SA, East Africa, Congo, Madagascar
+Madagascar, MA, East Africa, South Africa
+Ural, UR, Ukraine, Afghanistan, China, Siberia
+Afghanistan, AF, Ukraine, Ural, China, Middle East, India
+China, CH, Ural, Afghanistan, Siberia, Mongolia, Siam, India
+Mongolia, MN, China, Siberia, Irkutsk, Kamchatka, Japan
+Irkutsk, IR, Mongolia, Siberia, Yakutsk, Kamchatka
+Yakutsk, YK, Irkutsk, Siberia, Kamchatka
+Kamchatka, KA, Alaska, Irkutsk, Yakutsk, Japan, Mongolia
+Japan, JP, Kamchatka, Mongolia
+Siam, SA, China, India, Indonesia
+Indonesia, ID, Siam, New Guinea, Western Australia
+New Guinea, NG, Indonesia, Western Australia, Eastern Australia
+Western Australia, WA, Indonesia, New Guinea, Eastern Australia
+Eastern Australia, EA, New Guinea, Western Australia
+India, IN, Afghanistan, China, Siam, Middle East
+Siberia, SI, Ural, China, Mongolia, Irkutsk, Yakutsk

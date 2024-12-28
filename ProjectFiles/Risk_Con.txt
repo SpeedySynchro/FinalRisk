@@ -1,0 +1,6 @@
+North America, 5, Alaska, Northwest Territory, Greenland, Alberta, Ontario, Quebec, Western United States, Eastern United States, Central America
+South America, 2, Venezuela, Peru, Brazil, Argentina
+Europe, 5, Iceland, Great Britain, Scandinavia, Ukraine, Northern Europe, Southern Europe, Western Europe
+Africa, 3, North Africa, Egypt, East Africa, Congo, South Africa, Madagascar
+Asia, 7, Ural, Siberia, Yakutsk, Kamchatka, Irkutsk, Mongolia, China, Japan, Middle East, India, Siam, Indonesia, Afghanistan
+Australia, 2, Indonesia (western portion), New Guinea, Eastern Australia, Western Australia
